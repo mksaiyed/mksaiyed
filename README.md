@@ -1,6 +1,6 @@
-### Hi there, I'm Mohammad KaiF 👋
+### Hi there, I'm Mohammad Kaif 👋
 
-[![Website](https://img.shields.io/website?label=portfolio%20website&style=for-the-badge&url=https%3A%2F%2Ftest-portfolio-kaif.netlify.app)](https://test-portfolio-kaif.netlify.app/)
+[![Website](https://img.shields.io/website?label=portfolio%20website&style=for-the-badge&url=https%3A%2F%2Ftest-portfolio-kaif.netlify.app)](https://test-portfolio-kaif.netlify.app/){:target="_blank" rel="noopener"}
 
 <div align="left">
   <img src="https://img.shields.io/github/followers/mksaiyed?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Github folowers"  />
