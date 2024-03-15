@@ -2,13 +2,9 @@
 
 [![Website](https://img.shields.io/website?label=portfolio%20website&style=for-the-badge&url=https%3A%2F%2Ftest-portfolio-kaif.netlify.app)](https://test-portfolio-kaif.netlify.app/)
 
-###
-
 <div align="left">
   <img src="https://img.shields.io/github/followers/mksaiyed?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Github folowers"  />
 </div>
-
-###
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=mksaiyed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"  />
