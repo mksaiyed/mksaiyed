@@ -1,4 +1,6 @@
-### Hi there, I'm Mohammad Kaif 👋
+<h1 align='center'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hey%2C+I'm+Mohammad Kaif.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
 
 [![Website](https://img.shields.io/website?label=portfolio%20website&style=for-the-badge&url=https%3A%2F%2Ftest-portfolio-kaif.netlify.app)](https://test-portfolio-kaif.netlify.app/)
 
